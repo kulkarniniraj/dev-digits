@@ -16,3 +16,7 @@ Y = np.vstack(y)
 print X.shape, Y.shape
 # (17230, 32, 32) (17230, 1)
 ```
+
+A demo of convnet trained on this data is available at 
+- <https://kulkarniniraj.github.io/ocr.html> (for desktop) 
+- <https://kulkarniniraj.github.io/mocr.html> (for mobile)
